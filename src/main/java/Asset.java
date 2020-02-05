@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Asset {
+public interface Asset {
+    int getValue();
 }
